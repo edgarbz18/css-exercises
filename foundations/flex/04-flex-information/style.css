@@ -10,7 +10,24 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  text-align: center;
 }
+
+.seccion {
+  padding: 5px;
+  display: flex;
+  gap: 50px;
+}
+
+div.producto {
+  justify-items: center;
+  padding: 60px;
+}
+
+div.text {
+  text-align: center;
+}
+
 
 /* do not edit this footer */
 .footer {
