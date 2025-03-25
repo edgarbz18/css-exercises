@@ -72,11 +72,28 @@ button.cancel {
   color: royalblue;
 }
 
+<<<<<<< HEAD
+
+=======
+.modal {
+  display: flex;
+  gap: 16px;
+  padding: 16px;
+}
+
+.icon {
+  flex-shrink: 0;
+}
+
 .header {
   display: flex;
-  justify-content: space-between;
   align-items: center;
+  justify-content: space-between;
   font-size: 18px;
   font-weight: 700;
   margin-bottom: 8px;
 }
+
+.text {
+  margin-bottom: 16px;}
+>>>>>>> 1ddf0277e2821c242800db42d199d64ef82b25f0
