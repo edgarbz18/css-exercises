@@ -1,0 +1,18 @@
+.all {
+    background-color: pink;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 24px;
+}
+.adjust-font-size {
+    font-size: 24px;
+}
+#second {
+    color: blue;
+    font-size: 36px;
+}
+
+#cuatro {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
