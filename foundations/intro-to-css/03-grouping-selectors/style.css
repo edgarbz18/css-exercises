@@ -1,0 +1,14 @@
+.border.text {
+    color: white;
+    border-color: grey;
+    background-color: black;
+}
+
+.no {
+    border-color: grey;
+    background-color: yellow;
+}
+
+button.size {
+    font-size: 28px;
+}
